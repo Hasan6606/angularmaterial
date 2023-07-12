@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Setup Json Server and Watching Your Local API
+Hi guys,If you want to use json server for angular project(s). First of all, you can generate which might be as generate on terminal enviorment in the project folder path.
+"npm install -g json-server" write and run code json server was ınstalled. 
+Please write json-server --watch db.json After that, you can list and keep your local address(es).
+I hope that ıt coulde be help your project. 
